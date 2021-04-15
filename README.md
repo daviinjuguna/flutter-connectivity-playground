@@ -1,5 +1,7 @@
 # connectivity_playground
 
+- [Checkout Tutorial](https://youtube.com/playlist?list=PLG0K9eDPlkBF9u9xiaakP5ICbPrIAKbqn)
+
 A new Flutter project.
 
 ## Getting Started
